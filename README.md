@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![hyt-allen-xu's github stats](https://github-readme-stats.vercel.app/api?username=hyt-allen-xu&count_private=true&show_icons=true)
+
 <!--
 **hyt-allen-xu/hyt-allen-xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
